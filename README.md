@@ -2,6 +2,12 @@
 
 ## The plot of the game
 
+This is a game which tells a goddess whose name is Muyu and she was fallen in love with a man, but it's not right, so their's love got banned. Muyu could not accept it because she loved the man so much, she cried every day, and the tears she cried became floods caused a lot of people suffering, or even died. The purpose of this game is that you have to collect more kisses from Muyu, if you do so, Muyu can be freed from this tragedy, and the people who were suffering can be helped either.
+
+<img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/4.png" width="400" height="800" ><br/>
+<img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/5.png" width="400" height="800" ><br/>
+<img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/6.png" width="400" height="800" ><br/>
+
 ## Main page
 You can input your name here, and you can also connect to other pages from here.
 
