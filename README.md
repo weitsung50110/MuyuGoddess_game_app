@@ -27,3 +27,6 @@ If you get more kisses you'll get more points, if you get more than a specific p
 <img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/2.jpg" width="400" height="800" ><br/>
 <img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/3.jpg" width="400" height="800" ><br/>
 
+## Select level page
+You can choose a level that you want to play, and you have to finish the first level, then you can unlock the other level.
+<img src="https://github.com/weitsung50110/Muyu_app_game/blob/master/github_images/7.jpg" width="400" height="800" ><br/>
