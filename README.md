@@ -1,4 +1,4 @@
-# Muyu_app_game
+# MuyuGoddess_game_app
 
 ## The plot of the game
 
