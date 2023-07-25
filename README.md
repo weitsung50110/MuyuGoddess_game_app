@@ -1,5 +1,10 @@
 # MuyuGoddess_game_app
 
+## Video
+* This video was uploaded on youtube, welcome to watch it.
+
+[![Watch the video](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/Runaway_video_pic.png)](https://www.youtube.com/watch?v=vAAcT1U9pr4&t=192s&ab_channel=%E5%B4%B4%E5%B4%B4)https://youtu.be/98bxDdb7l0s
+
 ## The plot of the game
 
 This is a game which tells a goddess whose name is Muyu and she was fallen in love with a man, but it's not right, so their's love got banned. Muyu could not accept it because she loved the man so much, she cried every day, and the tears she cried became floods caused a lot of people suffering, or even died. The purpose of this game is that you have to collect more kisses from Muyu, if you do so, Muyu can be freed from this tragedy, and the people who were suffering can be helped either.
