@@ -3,7 +3,7 @@
 ## Video
 * This video was uploaded on youtube, welcome to watch it.
 
-[![Watch the video](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/Runaway_video_pic.png)](https://www.youtube.com/watch?v=vAAcT1U9pr4&t=192s&ab_channel=%E5%B4%B4%E5%B4%B4)https://youtu.be/98bxDdb7l0s
+[![Watch the video](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/Runaway_video_pic.png)](https://youtu.be/98bxDdb7l0s)
 
 ## The plot of the game
 
